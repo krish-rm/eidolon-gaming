@@ -1,12 +1,9 @@
 ## 📽️ Proof of Concept: Video Walkthrough
 
-<video src="assets/demo-video.mp4" controls width="100%" poster="assets/swarm_engine_concept.png"></video>
-
-> [!IMPORTANT]
-> **Click to Play:** If the video player above does not appear, you can [watch the video directly here](assets/demo-video.mp4).
+[<img src="assets/demo.png" width="100%" alt="Eidolon Swarm Engine Video Walkthrough - Click to Watch on Vimeo">](https://vimeo.com/1181314729)
 
 > [!TIP]
-> **Watch the full 4K demo:** [demo-video.mp4](assets/demo-video.mp4) (Direct Link)
+> **Click the image above to watch the complete demo video.**
 
 ### 🔍 What to Look For in the Video:
 1. **The Flank (0:15s):** A drone enters the orbit but hasn't "attacked" yet. Eidolon detects the convergence, pulses the **Somatic Ring** (behind-left), and triggers a **PROBABLE** prediction 1.2 seconds before the drone fires.
