@@ -19,6 +19,9 @@ Current somatic feedback in premium gaming hardware (like the **Sony DualSense**
 
 Instead of waiting for an event to happen, Eidolon's intelligent engine tries to predict the unfolding physics and gameplay mechanics. By deploying a **Distributed Swarm** of autonomous algorithms that simulate probable near-futures based on real-time collision, velocity, and state telemetry, Eidolon generates a proactive, intuitive "Somatic Lead Time." This transforms haptics from a reactive after-effect into a proactive "Sixth Sense."
 
+> [!TIP]
+> **📽️ See Eidolon in action:** Check out the [Visual Walkthrough & Demo Video](DEMO.md) to see the swarm engine predicting flanking maneuvers in real-time.
+
 ## 🔮 Vision
 
 Our ultimate vision is to establish **"Bit-to-Biology"** processing as a universal standard in interactive media. We believe the future of high-skill gaming is about profound immersion and sensory expansion—feeding intuitive environmental awareness directly to the skin.
@@ -112,6 +115,10 @@ python run_demo.py
 ```
 
 This will instantly output the engine's cognitive assessment, identifying specific hardware targets and haptic intensities (like a `SHARP` warning signal to the `HEADSET` mapping the incoming flank) before shutting down securely.
+
+### 4. Visual Documentation
+For a deep dive into the HUD, swarm metrics, and a full video breakdown of the predictive pipeline, see:
+👉 **[DEMO.md — Video Walkthrough & Technical Deep Dive](DEMO.md)**
 
 ---
 
