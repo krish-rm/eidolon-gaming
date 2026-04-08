@@ -1,11 +1,6 @@
 ## 📽️ Proof of Concept: Video Walkthrough
 
-<div align="center">
-  <video width="100%" controls poster="assets/swarm_engine_concept.png">
-    <source src="assets/demo-video.mp4" type="video/mp4">
-    Your browser does not support the video tag. [Download the video here](assets/demo-video.mp4).
-  </video>
-</div>
+![Eidolon Swarm Engine Demo](assets/demo-video.mp4)
 
 > [!TIP]
 > **Watch the full 4K demo:** [demo-video.mp4](assets/demo-video.mp4) (Download for best quality)
